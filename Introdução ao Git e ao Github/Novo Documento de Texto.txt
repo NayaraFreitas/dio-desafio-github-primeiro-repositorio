@@ -1,3 +1,4 @@
 git init - cria um .git
-git add * - adiciona todas as mudanças
-git commit - comitar usar a flag -m
+git add * ou . - adiciona todas as mudanças
+git commit - comitar usar a flag -m + uma descrição
+git move para mover arquivos
